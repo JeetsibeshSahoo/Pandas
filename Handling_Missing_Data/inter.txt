@@ -1,0 +1,12 @@
+10
+20
+NaN  40
+40
+50
+
+linear
+
+Use Interpolation
+1 - preserve data integrity - replace with arbitrary values
+2 - smooth trends
+3 - avoid data loss

@@ -1,0 +1,6 @@
+1- sum() - it add all the values present in group.
+2- mean() - it calculate average value.
+3- count() - it count the non NaN value
+4- min() - it returns the minimum value in a group
+5- max() - it returns the maximum value in a group
+6- std() - it calculate standard deviation in a group.
